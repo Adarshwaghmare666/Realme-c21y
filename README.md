@@ -1,1 +1,1 @@
-# Realme-c21y
+#netsh wlan show profiles wifi password 
